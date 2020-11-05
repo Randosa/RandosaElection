@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Map</title><br>
+	<b><a href="https://randosa.github.io/RandosaElection/">BACK</a></b>
+	<center><h1>Voter Fraud Map</h1></center>
+<style>
+		
+      body {
+
+        background-image: url('https://cdn.discordapp.com/attachments/718629013421293589/773649712913711134/Screenshot_2020-11-04_154706.png');
+        background-repeat: repeat;
+        background-attachment: fixed;
+        background-position: center;
+      }
+    </style>
+  <br>
+</head>
+<body>
+<img src="https://cdn.discordapp.com/attachments/773337624836440104/773949243651391498/unknown.png"alt=""/>
+</body>
+</html>
